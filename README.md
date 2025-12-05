@@ -13,7 +13,7 @@ Task:
 
 2.	Write a small C# code snippet declaring all these variables with sample values.
 
-
+Task:
 2. You are working in a software company developing a Device Health Monitoring System for a smart factory.
 The project contains multiple modules, and the build system should decide which module will run based on configuration.
 Currently, the solution contains two classes, each with a Main() method:
@@ -41,6 +41,5 @@ Modify the above program so that:
 
 1.	TemperatureModule.Main() becomes the startup entry point
 2.	VibrationModule.Main() is converted into a normal helper method
-3.	3.	Show the corrected code
+3.	Show the corrected code
 
-4.	Show the corrected code
